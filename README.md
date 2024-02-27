@@ -6,4 +6,4 @@
     * Telegram: [@bunsberry](https://t.me/bunsberry)
 
 ### Work Experience:
-- Developing iOS applications at @kode since 2022
+- Developing iOS applications at KODE since 2022
